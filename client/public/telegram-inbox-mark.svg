@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Telegram Inbox</title>
+  <rect width="512" height="512" rx="148" fill="#2188c9"/>
+  <path d="M390 126 326 389c-5 19-17 24-34 15l-95-70-46 44c-5 5-9 9-18 9l7-97 177-160c8-7-2-11-13-4L85 266l-93-29c-20-6-20-20 4-29l362-139c17-6 32 4 27 27Z" fill="#fff" transform="translate(72 54) scale(.84)"/>
+</svg>
